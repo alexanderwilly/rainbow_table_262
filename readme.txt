@@ -1,4 +1,3 @@
-Alexander Willy Johan - A1 - 7907795 - 262 - T06
 
 ~~ Creating Rainbow Table ~~
 This program is the implementation of Rainbow Table. 
